@@ -1,5 +1,5 @@
 # ElysiumDawn
-Exploration and building game
+Infinite Terrain
 
 Unity 2019.2.17f1
 
