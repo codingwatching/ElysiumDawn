@@ -1,5 +1,5 @@
 # ElysiumDawn
-Infinite Terrain
+Infinite Terrain with LODs and Threading
 
 Unity 2019.2.17f1
 
